@@ -1,3 +1,8 @@
-title: My Blog
-description: Writing about tech and life
+title: computer
+description: stuff
 theme: minima
+
+# This tells the theme to put links in the site navigation
+header_pages:
+  - about.md
+  - contact.md
